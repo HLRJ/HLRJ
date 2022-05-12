@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on home
+- 🌱 I’m currently learning rust
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HLRJ&theme=algolia&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HLRJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
