@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning Compiler and Parallel Computing
 
 
