@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Compiler and Parallel Computing
+- 🌱 I’m currently learning Compiler && Parallel Computing && Independent Game
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlrj)](https://github.com/anuraghazra/github-readme-stats)
