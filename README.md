@@ -1,12 +1,10 @@
 <div align="center">
+  <img src="./assets/header.svg" alt="HLRJ System Operator Banner" width="100%" />
+</div>
 
-# `HLRJ // SYSTEM OPERATOR`
+<div align="center">
 
-### ENGINEERING SYSTEMS · AI · ROBOTICS · GAME DEVELOPMENT
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+HLRJ+workspace...;%3E+Building+machines.;%3E+Building+software.;%3E+Building+worlds.;%3E+SYSTEM+STATUS%3A+ONLINE" alt="Typing SVG" />
-
-`● ONLINE` &nbsp;&nbsp; `BUILD: CONTINUOUS` &nbsp;&nbsp; `MODE: ENGINEERING`
+`SYSTEM STATUS // ONLINE` &nbsp;&nbsp; `ROLE // BUILDER` &nbsp;&nbsp; `MODE // CONTINUOUS ITERATION`
 
 </div>
 
@@ -14,30 +12,23 @@
 
 ```console
 HLRJ@github:~$ whoami
-
 > Software Engineer
 > System Builder
 > Explorer of low-level systems and interactive worlds
 
 HLRJ@github:~$ current_focus
-
 [01] Compiler Engineering
 [02] Parallel Computing
-[03] AI & Intelligent Systems
-[04] Robotics & Digital Twin
-[05] Independent Game Development
+[03] AI / Robotics / Digital Twin
+[04] Independent Game Development
 
-HLRJ@github:~$ status
-
-SYSTEM ...................................... OPERATIONAL
-CURIOSITY ................................... 100%
-BUILDING .................................... ACTIVE
-NEXT_RELEASE ................................ UNKNOWN
-
-_
+HLRJ@github:~$ philosophy
+> Understand the machine.
+> Build useful systems.
+> Iterate fast.
 ```
 
-## `01 // SYSTEM DASHBOARD`
+## `01 // CORE SYSTEMS`
 
 <table>
 <tr>
@@ -46,14 +37,11 @@ _
 ### `COMPILER_SYS`
 
 ```text
-TYPE       LOW-LEVEL SYSTEM
-STATUS     EXPLORING
-FOCUS      Compiler / LLVM / C++
-LOAD       ███████░░░
+TYPE    // LOW-LEVEL SYSTEM
+STATUS  // EXPLORING
+FOCUS   // Compiler / LLVM / C++
+GOAL    // Understand how software becomes machinery
 ```
-
-**Mission**  
-Understand how software becomes machinery.
 
 </td>
 <td width="50%" valign="top">
@@ -61,32 +49,25 @@ Understand how software becomes machinery.
 ### `PARALLEL_SYS`
 
 ```text
-TYPE       COMPUTING SYSTEM
-STATUS     EXPLORING
-FOCUS      Parallel Computing
-LOAD       ██████░░░░
+TYPE    // COMPUTING SYSTEM
+STATUS  // EXPLORING
+FOCUS   // Parallel Computing
+GOAL    // Make computation scale efficiently
 ```
-
-**Mission**  
-Make computation scale.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### `ROBOTICS_SYS`
 
 ```text
-TYPE       PHYSICAL + DIGITAL
-STATUS     BUILDING
-FOCUS      Robot / Digital Twin / AI
-LOAD       ████████░░
+TYPE    // PHYSICAL + DIGITAL SYSTEM
+STATUS  // BUILDING
+FOCUS   // Robot / AI / Digital Twin
+GOAL    // Connect machines, data and intelligence
 ```
-
-**Mission**  
-Connect machines, data and intelligence.
 
 </td>
 <td width="50%" valign="top">
@@ -94,14 +75,11 @@ Connect machines, data and intelligence.
 ### `GAME_SYS`
 
 ```text
-TYPE       INTERACTIVE SYSTEM
-STATUS     BUILDING
-FOCUS      Godot / Blender / Gameplay
-LOAD       ███████░░░
+TYPE    // INTERACTIVE SYSTEM
+STATUS  // BUILDING
+FOCUS   // Godot / Blender / Gameplay
+GOAL    // Build worlds worth interacting with
 ```
-
-**Mission**  
-Build worlds worth interacting with.
 
 </td>
 </tr>
@@ -109,21 +87,15 @@ Build worlds worth interacting with.
 
 ---
 
-## `02 // OPERATOR PHILOSOPHY`
+## `02 // ACTIVE MISSIONS`
 
 ```text
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│   BUILD > TALK                                            │
-│                                                           │
-│   SIMPLE SYSTEMS                                          │
-│   COMPOSABLE TOOLS                                        │
-│   FAST FEEDBACK                                           │
-│   CONTINUOUS ITERATION                                    │
-│                                                           │
-│   "Understand the machine. Then build something on it."   │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+[RUNNING]   Robotics & Industrial Software
+[RUNNING]   AI / RAG / Intelligent Systems
+[BUILDING]  Digital Twin Systems
+[BUILDING]  Independent Games
+[LEARNING]  Compiler Engineering
+[LEARNING]  Parallel Computing
 ```
 
 ---
@@ -143,7 +115,7 @@ Build worlds worth interacting with.
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=58A6FF)
 
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=58A6FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=58A6FF)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=58A6FF)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=58A6FF)
 ![Windows](https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows11&logoColor=58A6FF)
 
@@ -151,61 +123,19 @@ Build worlds worth interacting with.
 
 ---
 
-## `04 // CURRENT MISSIONS`
+## `04 // SIGNAL`
 
 ```text
-╭─ ACTIVE QUEUE ───────────────────────────────────────────╮
-│                                                         │
-│  [RUNNING]   Robotics & Industrial Software             │
-│  [RUNNING]   AI / RAG / Intelligent Agents              │
-│  [BUILDING]  Digital Twin Systems                       │
-│  [BUILDING]  Independent Games                          │
-│  [LEARNING]  Compiler Engineering                       │
-│  [LEARNING]  Parallel Computing                         │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
-
----
-
-## `05 // TELEMETRY`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HLRJ&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLRJ&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-
-</div>
-
----
-
-## `06 // SIGNAL`
-
-```text
-SYSTEM NODE   HLRJ
-NETWORK       GITHUB
-STATE         ONLINE
-
-ENGINEERING   ███████████████████░
-LEARNING      ████████████████████
-BUILDING      ██████████████████░░
-SHIPPING      ███████████████░░░░░
-
-> Waiting for the next impossible problem...
-_
+ENGINEERING   // ACTIVE
+BUILDING      // ACTIVE
+LEARNING      // CONTINUOUS
+RELEASE       // IN PROGRESS
 ```
 
 <div align="center">
 
-### `BUILD SYSTEMS. BREAK LIMITS. SHIP THINGS.`
+### `HLRJ // BUILD SYSTEMS. SHIP THINGS.`
 
-<sub>
-SYSTEM STATUS // OPERATIONAL
-&nbsp;&nbsp;·&nbsp;&nbsp;
-HLRJ NODE
-&nbsp;&nbsp;·&nbsp;&nbsp;
-EST. ∞
-</sub>
+<sub>Compiler · Parallel Computing · AI · Robotics · Game Development</sub>
 
 </div>
