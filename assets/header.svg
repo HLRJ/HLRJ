@@ -1,0 +1,63 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">HLRJ System Operator Banner</title>
+  <desc id="desc">Industrial cyberpunk styled GitHub profile header for HLRJ.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#7EE787"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <rect x="32" y="26" width="1136" height="12" rx="6" fill="#161B22" stroke="#21262D"/>
+  <circle cx="54" cy="32" r="4" fill="#FF7B72"/>
+  <circle cx="70" cy="32" r="4" fill="#E3B341"/>
+  <circle cx="86" cy="32" r="4" fill="#3FB950"/>
+
+  <line x1="36" y1="62" x2="1164" y2="62" stroke="#21262D" stroke-width="1.5"/>
+  <line x1="36" y1="258" x2="1164" y2="258" stroke="#21262D" stroke-width="1.5"/>
+
+  <rect x="44" y="80" width="262" height="154" rx="12" fill="#0B1220" stroke="#1F6FEB" stroke-opacity="0.45"/>
+  <rect x="328" y="80" width="510" height="154" rx="12" fill="#0B1220" stroke="#58A6FF" stroke-opacity="0.35"/>
+  <rect x="860" y="80" width="296" height="154" rx="12" fill="#0B1220" stroke="#238636" stroke-opacity="0.35"/>
+
+  <text x="64" y="108" fill="#7D8590" font-family="JetBrains Mono, Consolas, monospace" font-size="15">NODE</text>
+  <text x="64" y="136" fill="#F0F6FC" font-family="JetBrains Mono, Consolas, monospace" font-size="29" font-weight="700">HLRJ</text>
+  <text x="64" y="165" fill="#58A6FF" font-family="JetBrains Mono, Consolas, monospace" font-size="14">ROLE  // SYSTEM OPERATOR</text>
+  <text x="64" y="190" fill="#8B949E" font-family="JetBrains Mono, Consolas, monospace" font-size="13">STATUS  // ONLINE</text>
+  <text x="64" y="212" fill="#8B949E" font-family="JetBrains Mono, Consolas, monospace" font-size="13">BUILD   // CONTINUOUS</text>
+
+  <text x="352" y="112" fill="#7D8590" font-family="JetBrains Mono, Consolas, monospace" font-size="15">ACTIVE DOMAINS</text>
+  <text x="352" y="144" fill="#F0F6FC" font-family="JetBrains Mono, Consolas, monospace" font-size="16">[01] COMPILER ENGINEERING</text>
+  <text x="352" y="171" fill="#F0F6FC" font-family="JetBrains Mono, Consolas, monospace" font-size="16">[02] PARALLEL COMPUTING</text>
+  <text x="352" y="198" fill="#F0F6FC" font-family="JetBrains Mono, Consolas, monospace" font-size="16">[03] AI / ROBOTICS / DIGITAL TWIN</text>
+  <text x="352" y="225" fill="#F0F6FC" font-family="JetBrains Mono, Consolas, monospace" font-size="16">[04] INDEPENDENT GAME DEVELOPMENT</text>
+
+  <text x="882" y="112" fill="#7D8590" font-family="JetBrains Mono, Consolas, monospace" font-size="15">SIGNAL</text>
+  <text x="882" y="144" fill="#7EE787" font-family="JetBrains Mono, Consolas, monospace" font-size="14">● ENGINEERING</text>
+  <text x="882" y="170" fill="#7EE787" font-family="JetBrains Mono, Consolas, monospace" font-size="14">● BUILDING</text>
+  <text x="882" y="196" fill="#58A6FF" font-family="JetBrains Mono, Consolas, monospace" font-size="14">● LEARNING</text>
+  <text x="882" y="222" fill="#58A6FF" font-family="JetBrains Mono, Consolas, monospace" font-size="14">● ITERATING</text>
+
+  <text x="46" y="289" fill="#58A6FF" filter="url(#glow)" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="700">HLRJ // SYSTEM OPERATOR</text>
+  <text x="483" y="289" fill="#8B949E" font-family="JetBrains Mono, Consolas, monospace" font-size="14">ENGINEERING SYSTEMS · AI · ROBOTICS · GAME DEV</text>
+
+  <rect x="998" y="274" width="152" height="18" rx="9" fill="#161B22" stroke="#30363D"/>
+  <rect x="1004" y="280" width="68" height="6" rx="3" fill="url(#accent)"/>
+  <text x="1080" y="286" fill="#7D8590" font-family="JetBrains Mono, Consolas, monospace" font-size="10">SYS OK</text>
+
+  <path d="M1080 34H1142" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1080 42H1122" stroke="#58A6FF" stroke-opacity="0.65" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1025 34H1054" stroke="#7EE787" stroke-width="2" stroke-linecap="round"/>
+</svg>
