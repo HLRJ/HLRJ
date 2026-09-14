@@ -20,6 +20,7 @@ HLRJ@github:~$ whoami
 ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=58A6FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=58A6FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=58A6FF)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=58A6FF)
 ![Godot](https://img.shields.io/badge/Godot-111827?style=flat-square&logo=godotengine&logoColor=58A6FF)
 ![Blender](https://img.shields.io/badge/Blender-111827?style=flat-square&logo=blender&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=58A6FF)
