@@ -5,12 +5,12 @@
 ```console
 HLRJ@github:~$ whoami
 > Software Engineer / System Builder
-> Compiler · Parallel Computing · AI/Robotics · Indie Game Dev
+> Compiler · Parallel Computing · Cybersecurity · AI/Robotics · Indie Game Dev
 ```
 
 ## `FOCUS`
 
-`Compiler / LLVM / C++` · `Parallel Computing` · `AI / RAG / Robotics` · `Digital Twin` · `Godot / Blender`
+`Compiler / LLVM / C++` · `Parallel Computing` · `Cybersecurity` · `AI / RAG / Robotics` · `Digital Twin` · `Godot / Blender`
 
 ## `ARSENAL`
 
